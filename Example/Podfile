@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AGCommonCodeSwift_Example' do
+  pod 'AGCommonCodeSwift', :path => '../'
+
+  target 'AGCommonCodeSwift_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

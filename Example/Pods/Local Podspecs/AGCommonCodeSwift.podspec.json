@@ -1,0 +1,22 @@
+{
+  "name": "AGCommonCodeSwift",
+  "version": "0.1.0",
+  "summary": "A short description of AGCommonCodeSwift.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/DeveloperFly/AGCommonCodeSwift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Aman Gupta": "aman19ish@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/DeveloperFly/AGCommonCodeSwift.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AGCommonCodeSwift/Classes/**/*"
+}

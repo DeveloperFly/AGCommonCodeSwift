@@ -1,0 +1,6 @@
+framework module AGCommonCodeSwift {
+  umbrella header "AGCommonCodeSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
