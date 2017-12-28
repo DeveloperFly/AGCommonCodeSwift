@@ -22,7 +22,7 @@ pod 'AGCommonCodeSwift'
 
 ## Author
 
-aman19ish, aman.gupta@finoit.co.in
+Aman Gupta, aman19ish@gmail.com
 
 ## License
 
