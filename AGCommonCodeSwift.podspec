@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'AGCommonCodeSwift'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'AGCommonCodeSwift Is used for swift UIKit extension for use by storyboard or save time.'
 
 # This description is used to generate tags and improve search results.
